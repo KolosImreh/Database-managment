@@ -21,3 +21,5 @@ Allows the user to delete a book from the database by its ID.
 Search for Books:
 
 Enables the user to search for books by title or author.
+
+Requirements: Python 3.x SQLite3
